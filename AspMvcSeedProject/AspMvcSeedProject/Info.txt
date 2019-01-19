@@ -1,0 +1,3 @@
+﻿
+Hice la carpeta de ViewModels, fuera de eso, todo está igual al tamplate
+inicial de microsoft.
